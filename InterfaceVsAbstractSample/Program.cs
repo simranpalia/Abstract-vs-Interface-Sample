@@ -12,6 +12,11 @@ namespace InterfaceVsAbstractSample
 
         public abstract void Outgoing();
 
+        public void NormalFunction()
+        {
+
+        }
+
         public virtual void Keypad()
         {
 
